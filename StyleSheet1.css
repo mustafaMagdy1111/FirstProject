@@ -1,0 +1,159 @@
+﻿
+
+#firstDiv {
+    width: 1358px;
+    height: 155px;
+    background-color: #ac1313;
+    margin-top: -16px;
+}
+
+#secondDiv {
+    width: 1140px;
+    height: 150px;
+}
+
+#thirdDiv
+{
+
+    width:1358px;
+    height:585px;
+    background-color:#c7c7c7;
+}
+
+#fourthDiv
+{
+    width:1361.5px;
+    height:1470px;
+    background-color:#2f2f2f;
+
+
+}
+
+li
+{
+
+    display:inline;
+} 
+
+li a
+{
+    text-decoration:none;
+    color:white;
+    padding:1.5%;
+    font-size:17px;
+
+}
+
+
+li a:hover
+{
+    background-color:black;
+
+}
+li a:hover:not(.active)
+{
+    background-color:black;
+
+}
+
+.active
+{
+    background-color:green;
+
+}
+
+.famustafa
+{
+padding:2% 0% 0% 0%;
+width:9%;
+
+}
+
+ul
+{
+padding: 5.4% 0% 10% 0%;
+
+}
+                
+#RightColumDiv {
+    width: 262px;
+    height: 1412px;
+    background-color:#e2e2e2;
+    float: right;
+    margin-right: 7.3%;
+    display: block;
+}
+#RightColumCenter
+{
+ width:232px;
+ height:1309px;
+ margin: 2% auto 2% auto;
+
+
+}
+
+.button {
+       background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 6px 94px 7px 62px;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 16px;
+ 
+}
+
+#leftColum
+{
+   width:857.5px;
+   height:1735px;
+   background-color:#ffffff;
+}
+
+#article
+{
+    width:394px;
+    height:396px;
+    margin:0% 3% 0% 3%;
+    float:right;
+}
+
+.colorH1
+{
+   color:#ea5858;
+   float:right;
+   font-size:41px;
+font-family: 'Cairo', sans-serif;
+
+}
+
+.paragraph
+{
+       float:right;
+   font-size:25px;
+font-family: 'Cairo', sans-serif;
+height:200px;
+float:right;
+text-align:right;
+text-align:justify;
+}
+
+
+.imgAlbum
+{
+   
+    height:195px;
+    margin:1% 0% 0% 3%;
+  border-radius:40px;
+}
+
+
+footer
+{
+    background-color:black;
+    text-align:center;
+    height:40px;
+   width:1348.5px;
+    color:white;
+
+}
