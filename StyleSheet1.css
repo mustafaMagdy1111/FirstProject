@@ -93,14 +93,19 @@ padding: 5.4% 0% 10% 0%;
 }
 
 .button {
-       background-color: #4CAF50;
+   background-color: #4CAF50;
     border: none;
     color: white;
-    padding: 6px 94px 7px 62px;
+    padding: 7px 56px 7px 62px;
     text-align: center;
     text-decoration: none;
-    margin-left: 16px;
+    margin-left: 29px;
  
+}
+
+.button:hover
+{
+    background-color:ButtonShadow;
 }
 
 #leftColum
@@ -152,8 +157,29 @@ footer
 {
     background-color:black;
     text-align:center;
-    height:40px;
-   width:1348.5px;
+    height:53px;
+   width:1360.5px;
     color:white;
 
+}
+
+
+
+
+.fa-pencil:hover{
+background-color: #e8d7d7;
+}
+.fa-phone:hover{
+background-color: #e8d7d7;
+}.fa-map-marke:hover{
+background-color: #e8d7d7;
+}.fa-sign-in:hover{
+background-color: #e8d7d7;
+}.fa-bell:hover{
+background-color: #e8d7d7;
+}
+ .fa-bell:hover{
+background-color: #e8d7d7;
+}.fa-home:hover{
+background-color: #e8d7d7;
 }
